@@ -1,0 +1,22 @@
+body {
+  background-color: #292929;
+}
+
+.app {
+  color: white;
+  font-family: "Lato";
+  text-align: center;
+  margin:3em;
+}
+
+.spacer{
+  margin-bottom:20px;
+}
+
+a {
+  color: white;
+}
+
+.links a {
+  margin: 1em;
+}
