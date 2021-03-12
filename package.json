@@ -1,5 +1,6 @@
 {
-  "name": "temp",
+  "name": "chraser.github.io",
+  "homepage" : "https://chraser.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
