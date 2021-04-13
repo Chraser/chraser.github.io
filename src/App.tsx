@@ -14,7 +14,7 @@ function App() {
         Computer Science Graduate
         </p>
         <div className="spacer">
-          <a href="/Kay_Men_Yap_Resume-2.pdf">Resume</a>
+          <a href="/Kay_Men_Yap_Resume-v2.pdf">Resume</a>
         </div>
         <div className='links'>
           <a href="https://github.com/Chraser"><FontAwesomeIcon icon={faGithub} size="3x"/></a>
