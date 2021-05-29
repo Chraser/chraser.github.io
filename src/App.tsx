@@ -18,7 +18,7 @@ function App() {
         </div>
         <div className='links'>
           <a href="https://github.com/Chraser"><FontAwesomeIcon icon={faGithub} size="3x"/></a>
-          <a href="mailto:contact@yapkaymen@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="3x"/></a>
+          <a href="mailto:yapkaymen@gmail.com"><FontAwesomeIcon icon={faEnvelope} size="3x"/></a>
           <a href="https://www.linkedin.com/in/kay-men-yap-aa63bb181/"><FontAwesomeIcon icon={faLinkedin} size="3x"/></a>
         </div>
     </div>
